@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# MUSIC!!!!! 本机中转（酒馆服务端插件 MUSIC）一键安装，Termux 等 Linux 环境用。版本 0.1.1。
+# MUSIC!!!!! 本机中转（酒馆服务端插件 MUSIC）一键安装，Termux 等 Linux 环境用。版本 0.1.2。
 # 只做三件事：把插件的两个文件下载到 酒馆文件夹/plugins/MUSIC/；把 config.yaml 里 enableServerPlugins 改成 true；告诉你重启酒馆。
 # 用法：curl -fsSL https://testingcf.jsdelivr.net/gh/yixipf784852-glitch/bangicon@main/MUSIC/relay/install.sh | bash
 #   酒馆不在 ~/SillyTavern 的，在命令最后加上酒馆文件夹：… | bash -s -- ~/你的酒馆文件夹

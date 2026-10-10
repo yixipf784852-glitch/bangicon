@@ -2,7 +2,7 @@
 // 只向 music.163.com 发请求，不转发任何别的地址；cookie 只取 MUSIC_U 一项，不保存、不打印。
 // 账号状态只回「登录没有、有没有会员」，不回昵称和账号 id。不做任何绕过版权限制的事：放不了的歌就是放不了。
 
-export const 版本 = '0.1.1';
+export const 版本 = '0.1.2';
 const 网易云 = 'https://music.163.com';
 const UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36';
 
