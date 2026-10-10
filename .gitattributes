@@ -1,0 +1,2 @@
+# card-update/ 里的清单签过名、包对过 sha256：原样存、原样取，不做换行转换
+card-update/** -text
